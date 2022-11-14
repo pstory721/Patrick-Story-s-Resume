@@ -1,0 +1,50 @@
+Patrick Story
+St. Louis, MO | (314)-566-0507 | pstory721@gmail.com | pstory721 (github.com)
+
+EXPERIENCE
+Software Engineer/Instructor
+App Academy- Remote 										01/2021 - Present
+A founding team member of the newly pioneered Part-Time program, beginning with a team of 8 advancing to a team of 40
+Instruct and manage two separate cohorts with a team of teaching assistants to ensure seamless learning for students 
+Develop curriculum to establish concise instruction for student comprehension (Modules include: REACT/REDUX, Intro to Javascript, Python, SQLite, SQL, Sequelize, Linux Development, Data Structures and Algorithms) 
+Use REACT/REDUX to develop student resource tools
+Write Test Driven Development exercises for students, using Mocha and Chai, to test students knowledge on Object Oriented Programing
+Use Github and follow Scrum boards to correct curriculum in App Academy's student facing site
+	
+Assistant General Manager/Regional Trainer		
+Bob Evans- Lexington, KY                    	            03/2017 - 03/2020
+Led a large team of up to 20 employees at a time in a high paced environment
+Interviewed and hired all potential employees
+Completed weekly inventory of over 600 unique items in an efficiently
+Increased the hospitality score of my restaurant from a 3.5 to a 4.8 out of 5 
+Trained incoming managers on hospitality and daily duties
+Increased revenue of store from approx 1.7 million a year to 2.25 million a year over a 2 year period
+Trained 20 stores on new computer systems and ensured efficient application
+
+General Manager		
+CEC Entertainment - St. Louis, MO                	         06/2013 -  02/2017
+Created action plans to delegate daily tasks to improve efficiency
+Completed hiring and training of new employees 
+Managed and scheduled a team of 33 cast members in accordance to labor needs
+Reviewed and edited weekly and monthly budgets
+Completed weekly inventory of over 800 unique items
+Trained management on new systems
+Drove up sales by 16% over my first full year as General Manager
+
+PROJECTS	
+RememberTheMilk-Clone (JavaScript, Express.js, Sequelize, Pug.js) 				10/20/21 - 10/27/21	
+This project is a clone of RememberTheMilk using pure Javascript and Dom manipulation.	 
+SoundCloud-Clone (JavaScript, ReactJS/ReduxJS, Python, Flask.py , SqlAlchemy)	11/08/21 - 11/13/21	
+This project is a clone of SoundCloud using REACT/REDUX for front end development, SQL and Python for back end development.
+AirBNB-Clone (JavaScript, ReactJS/ReduxJS, Express.js, Sequelize) 				12/01/21 - 12/14/21	
+This project is a clone of AirBNB using REACT/REDUX for front end development and SQL and express for back end development.
+
+SKILLS	   
+Linux frameworks: Unix, Linux, Wsl, Ubuntu, Debian
+Fullstack languages:  Javascript, Python, Java, Ruby on Rails, C#, C++
+Frontend languages/frameworks: HTML, CSS, React.js, Redux.js, Pug
+Backend/database languages: SQL, Sequelize, SqlAlchemy, Express.js, Flask.py
+	
+EDUCATION
+Software Engineering - App Academy | December 2021
+High School Diploma - Marquette High School | May 2016
